@@ -1,7 +1,7 @@
 # Halo semuanya! Saya Irfan Syahrul 👋
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HALLO&animation=scaleIn&desc=HOW%20ARE%20YOU"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HALLO&animation=scaleIn&desc=HAVE%20A%20GREAT%20GREAT%20DAY"/>
 </p>
 
 
