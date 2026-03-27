@@ -25,14 +25,6 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 
 ---
 
-### 📊 GitHub Stats & Streaks
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inowho&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
-
----
-
 ### 🔗 Social Media & Portfolio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=merko&hide_border=true" />
