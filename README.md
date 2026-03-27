@@ -10,7 +10,7 @@ Mahasiswa Sistem Informasi di Universitas Internasional Batam. Gue punya keterta
 - 🔭 **Sedang Mengerjakan:** Publikasi
 - 🌱 **Lagi Belajar:** Cardiac Overdrive
 - 💬 **Tanya Gue Tentang:** Playlist Gym
-- 🎮 **Game Favorit:** Elden Ring (Tarnished detected!)
+- 🎮 **Game Favorit:** Elden Ring
 
 ---
 
