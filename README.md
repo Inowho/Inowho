@@ -27,8 +27,8 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 
 ### 📊 GitHub Stats & Streaks
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inowho&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inowho&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
@@ -55,5 +55,5 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 - > "Really? Adjusting the seat, really? That's been your problem the whole time, the seat height? So now you have it, right? Go!" - Terence Fletcher
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzd2N1emk2a2c5aWliNDVoa25xY2lwMzVlMTZ0Y2puNTRjb2o3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X7Bckr1JaJS1opWTzO/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2o1bXdiODcxbGo3amt0ajJsbDBndmxpZHhnczJ3ZWd0OXFucjRwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7OVintWkOnZZThqTP8/giphy.gif" width="300" />
 </p>
