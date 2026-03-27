@@ -48,6 +48,7 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
   <a href="https://instagram.com/irfsl" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://tiktok.com/@irfsl" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
+
 ---
 
 ### 💡 Fun Facts & Quotes
