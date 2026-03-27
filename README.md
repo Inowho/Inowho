@@ -34,11 +34,9 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 ---
 
 ### 🔗 Social Media & Portfolio
-<p align="left">
-  <a href="https://instagram.com/irfsl" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/@irfsl" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=merko&hide_border=true" />
 </p>
-
 ---
 
 ### 💡 Fun Facts & Quotes
