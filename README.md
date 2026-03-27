@@ -1,8 +1,9 @@
 # Halo semuanya! Saya Irfan Syahrul 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Inowho%20Space&fontSize=50" />
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HALLO&animation=scaleIn&desc=HOW%20ARE%20YOU"/>
 </p>
+
 
 ### 👨‍💻 Introduction
 Mahasiswa Sistem Informasi di Universitas Internasional Batam. Gue punya ketertarikan besar di dunia teknologi, khususnya dalam hal Web and AI.
