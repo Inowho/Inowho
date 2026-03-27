@@ -25,19 +25,9 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Inowho&theme=onedark" alt="Trophy" />
-</p>
----
-
 ### 📊 GitHub Stats & Streaks
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Inowho&theme=radical" />
-</p>
-
-<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inowho&layout=compact&theme=radical" />
 </p>
 
@@ -61,8 +51,8 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 - > "Five, six..." - Andrew
 - > "In four, dammit! Look at me!" - Terence Fletcher
 - > "Now are you a rusher, or are you a dragger or are you gonna be ON MY TIME?" - Terence Fletcher
-- > "What the fuck are you looking for? There's no pot of gold down there." - Terence Fletcher
-- > "Really? Adjusting the seat, really? That's been your problem the whole fucking time, the seat height? So now you have it, right? Go!" - Terence Fletcher
+- > "What are you looking for? There's no pot of gold down there." - Terence Fletcher
+- > "Really? Adjusting the seat, really? That's been your problem the whole time, the seat height? So now you have it, right? Go!" - Terence Fletcher
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzd2N1emk2a2c5aWliNDVoa25xY2lwMzVlMTZ0Y2puNTRjb2o3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X7Bckr1JaJS1opWTzO/giphy.gif" width="300" />
