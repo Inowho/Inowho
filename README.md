@@ -1,7 +1,7 @@
 # Halo semuanya! Saya Irfan Syahrul 👋
 
-<p align="center">
-  <img src ="[https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Inowho%20Space&fontSize=50](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HELLOOO&section=header&reversal=false&textBg=false&fontAlign=50&animation=blinking&strokeWidth=2&desc=HOW%20ARE%20YOU)" />
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
 </p>
 
 ### 👨‍💻 Introduction
