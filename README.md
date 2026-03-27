@@ -27,19 +27,18 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username-kamu&theme=onedark" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Inowho&theme=onedark" alt="Trophy" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats & Streaks
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=username-kamu&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inowho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Inowho&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inowho&layout=compact&theme=radical" />
 </p>
 
 ---
