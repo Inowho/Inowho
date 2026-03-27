@@ -64,5 +64,5 @@ mahasiswa Sistem Informasi di Universitas International Batam. Gue punya keterta
 - > "Really? Adjusting the seat, really? That's been your problem the whole fucking time, the seat height? So now you have it, right? Go!" - Terence Fletcher
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJyeXJ4eXJ4eXJ4eXJ4eXJ4eXJ4eXJ4eXJ4eXJ4JnB0PWFjdGl2ZV9mZWVk/3o7TKSjPQC1F7U81P2/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzd2N1emk2a2c5aWliNDVoa25xY2lwMzVlMTZ0Y2puNTRjb2o3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X7Bckr1JaJS1opWTzO/giphy.gif" width="300" />
 </p>
